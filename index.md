@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ypcbt/yy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 书法史料学
+对书写实践及相关理论的总概括
+### 前言
+八月初，这本书列入了我的计划当中。
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# 名词解释
+1.序跋：指序文或跋文，或为作者陈述著作的主旨和经过，或是他人对著作的介绍，一般而言，序在书前，跋在书尾，合称“序跋”
+2.
+## 版本与校勘
+1.
+2.
+3.
+### 
 
 - Bulleted
 - List
@@ -33,5 +30,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ypcbt/yy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
